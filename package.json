@@ -1,0 +1,19 @@
+{
+  "name": "nodejsinterviewtask",
+  "version": "1.0.0",
+  "description": "InterView Questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shi-vam7902/NodeInterviewTask.git"
+  },
+  "author": "Shivam Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shi-vam7902/NodeInterviewTask/issues"
+  },
+  "homepage": "https://github.com/shi-vam7902/NodeInterviewTask#readme"
+}
