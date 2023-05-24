@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
-app.use(express.urlencoded({extended:true}))
-app.use(express.json())
+// app.use(express.urlencoded({extended:true}))
+// app.use(express.json())
 
 app.get("/task-1", (req, res) => {
   // query string
@@ -21,10 +21,10 @@ app.get("/task-1", (req, res) => {
   }
   res.send(numbers.join(" "))
 });
-app.listen(9999, (err) => {
-  if (err) {
-    console.log("Error=>", err);
-  } else {
-    console.log("Server Started on PORT 9999");
-  }
-});
+// app.listen(9999, (err) => {
+//   if (err) {
+//     console.log("Error=>", err);
+//   } else {
+//     console.log("Server Started on PORT 9999");
+//   }
+// });
