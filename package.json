@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shi-vam7902/NodeInterviewTask/issues"
   },
-  "homepage": "https://github.com/shi-vam7902/NodeInterviewTask#readme"
+  "homepage": "https://github.com/shi-vam7902/NodeInterviewTask#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
